@@ -1,0 +1,14 @@
+{
+  "name": "drupal/brt_media",
+  "type": "drupal-module",
+  "description": "BRT media library",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/brt_media",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/brt_media",
+    "source": "http://cgit.drupalcode.org/brt_media"
+  },
+  "require": { }
+}

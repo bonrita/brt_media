@@ -1,0 +1,7 @@
+name: BRT media
+type: module
+description: BRT media library
+core: 8.x
+package: BRT media
+dependencies:
+  - mm_rest
